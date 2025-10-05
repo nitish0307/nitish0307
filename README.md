@@ -46,8 +46,14 @@
 </p> -->
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/nitish03/count.svg" />
+  <img src="https://count.getloli.com/get/@nitish0307" alt="Visitor Count"/>
 </p>
+
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nitish0307&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
+</p>
+
+
 
 
 
