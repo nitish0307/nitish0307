@@ -37,8 +37,9 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=nitish0307&theme=dark" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/nitish0307?theme=dark&font=Fira&ext=activity,stats" alt="LeetCode Card" />
 </p>
+
 
 <p align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=nitish0307&animated=true" alt="LeetCode Badges"/>
