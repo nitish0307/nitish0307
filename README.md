@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=7F00FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+&+Django;Learning+SRE" alt="Typing SVG">
 </p>
 <p align="center">
-  <img src="[https://media.giphy.com/media/3o7TKxFwYNP2e9lz0Y/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXM4MWJvc3JnM3ljNjFicDQ4bzQ0NWo3Z3J3N3pyOThrZXlvYzJrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wNFS9tRGARFFPOWCxZ/giphy.gif)" width="200" alt="Cool Animation"/>
+  <img src="https://media.giphy.com/media/3o7TKxFwYNP2e9lz0Y/giphy.gif" width="200" alt="Cool Animation"/>
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/nitishmishra">
