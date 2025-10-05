@@ -35,6 +35,16 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitishmishra&theme=radical" alt="GitHub Streak"/>
 </p>
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=nitish0307&theme=dark" alt="LeetCode Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=nitish0307&animated=true" alt="LeetCode Badges"/>
+</p>
+
+
 ### 🎯 Fun Facts
 - Coffee-powered ☕
 - Learning SRE 👨‍💻
