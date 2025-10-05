@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitish Mishra</h1>
-<h3 align="center">A passionate Full Stack Developer & Aspiring SRE</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=7F00FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+&+Django;Learning+SRE" alt="Typing SVG">
