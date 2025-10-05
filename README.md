@@ -18,8 +18,8 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-### 🛠️ Skills
 
+<p align="center">🛠️ Skills</p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=7F00FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+&+Django;Learning+SRE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=7F00FF&center=true&vCenter=true&width=500&lines=HTML;CSS;JavaScript;React;Django" alt="Typing SVG" />
 </p>
 
 <p align="center">
