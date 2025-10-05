@@ -8,10 +8,10 @@
   <img src="./Assets/Good.gif" width="200" alt="Cool Animation"/>
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/nitishmishra">
+  <a href="https://www.linkedin.com/in/nitish-mishra-9a82b41a3/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/nitishmishra">
+  <a href="https://github.com/nitish0307">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:nitishm1803@gmail.com">
