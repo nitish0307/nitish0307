@@ -5,7 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=7F00FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+&+Django;Learning+SRE" alt="Typing SVG">
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKxFwYNP2e9lz0Y/giphy.gif" width="200" alt="Cool Animation"/>
+  <img src="Assets/![Good Night Dreaming GIF by Pudgy Memez](https://github.com/user-attachments/assets/0d3e59a3-c7a1-47bd-87e8-d6541884f5a2)
+" width="200" alt="Cool Animation"/>
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/nitishmishra">
