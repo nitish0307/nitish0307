@@ -41,9 +41,14 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=nitish0307&animated=true" alt="LeetCode Badges"/>
+</p> -->
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/nitish03/count.svg" />
 </p>
+
 
 
 ### 🎯 Fun Facts
