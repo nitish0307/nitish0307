@@ -45,6 +45,8 @@
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=nitish0307&animated=true" alt="LeetCode Badges"/>
 </p> -->
 
+
+<p align="center">Let's See how many new people came!</p>
 <p align="center">
   <img src="https://count.getloli.com/get/@nitish0307" alt="Visitor Count"/>
 </p>
