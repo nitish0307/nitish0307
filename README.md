@@ -33,10 +33,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitishmishra&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
   <img src="https://leetcard.jacoblin.cool/nitish0307?theme=dark&font=Fira&ext=activity,stats" alt="LeetCode Card" />
 </p>
 
