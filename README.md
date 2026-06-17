@@ -23,10 +23,8 @@ SAP Security Consultant by day, building toward Python & AI/ML engineering one h
 
 - 🔐 SAP Security Consultant at **LTIMindtree** — user provisioning, role assignments & access management
 - 🎓 B.Tech in Computer Science
-- 🐍 Currently working through **CS50P**, step one of a 12-month roadmap into backend development & AI/ML
-- 🛠️ Building with C++, JavaScript, HTML, CSS, React, and Tailwind CSS — Python is next up
+- 🛠️ Building with C++, JavaScript, HTML, CSS, React, and Tailwind CSS — currently picking up Python
 - 🌙 One non-negotiable rule: at least one hour of coding, every single night
-- 🎮 Run a gaming YouTube channel on the side — [NitishXFF](https://youtube.com)
 - 💬 Happy to talk SAP, web dev, or making the jump into tech from a non-traditional first job
 - 📍 Navi Mumbai, India
 
@@ -65,5 +63,5 @@ SAP Security Consultant by day, building toward Python & AI/ML engineering one h
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=nitish0307&icon=10&color=0" alt="Visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=nitish0307&style=flat&color=blue&label=Profile+Views" alt="Visitor count" />
 </p>
