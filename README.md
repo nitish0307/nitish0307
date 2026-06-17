@@ -54,12 +54,6 @@ SAP Security Consultant by day, building toward Python & AI/ML engineering one h
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitish0307&theme=dark&hide_border=false&layout=compact&include_all_commits=true&count_private=true" alt="Top languages" />
 </p>
 
-### 🏆 Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=nitish0307&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
 ---
 
 <p align="center">
