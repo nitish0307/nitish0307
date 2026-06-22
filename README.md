@@ -24,7 +24,6 @@ SAP Security Consultant by day, building toward Python & AI/ML engineering one h
 - 🔐 SAP Security Consultant at **LTIMindtree** user provisioning, role assignments & access management
 - 🎓 B.Tech in Computer Science
 - 🛠️ Building with C++, JavaScript, HTML, CSS, React, and Tailwind CSS — currently picking up Python
-- 🌙 One non-negotiable rule: at least one hour of coding, every single night
 - 💬 Happy to talk SAP, web dev, or making the jump into tech from a non-traditional first job
 - 📍 Navi Mumbai, India
 
